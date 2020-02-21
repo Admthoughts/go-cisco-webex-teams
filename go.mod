@@ -1,4 +1,4 @@
-module github.com/jbogarin/go-cisco-webex-teams
+module github.com/Admthoughts/go-cisco-webex-teams
 
 require (
 	github.com/google/go-querystring v1.0.0
