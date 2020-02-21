@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-resty/resty/v2"
+	"gopkg.in/resty.v1"
 )
 
 // ContentsService is the service to communicate with the Contents API endpoint

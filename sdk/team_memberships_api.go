@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-resty/resty/v2"
 	"github.com/google/go-querystring/query"
 	"github.com/peterhellberg/link"
+	"gopkg.in/resty.v1"
 )
 
 // TeamMembershipsService is the service to communicate with the TeamMemberships API endpoint

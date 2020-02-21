@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-resty/resty/v2"
+	"gopkg.in/resty.v1"
 	"github.com/google/go-querystring/query"
 	"github.com/peterhellberg/link"
 )
